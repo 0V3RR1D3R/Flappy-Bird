@@ -16,3 +16,9 @@ And we're going to stage the files we changed, that's the plus button
 Then we need to type in a commit message
 
 Then we're going to hit the drop down and do commit and push
+
+And now its on the internet
+
+Be careful what you commit though, anything you commit basically people can see it forever, even if you delete the code later.
+
+There are ways to get around that, but its very hard and very tedious.
