@@ -3,3 +3,16 @@ Open a terminal and write: python3 -m http.server 8000
 Then open browser and go to: localhost:8000
 
 To CLOSE go back to terminal and hit CTRL C 
+
+Lets say you want to change something
+in order to do that we need to save the changes here and push them to github
+
+So we save the file we editted, in this case its this file
+
+Then were going to go to our source control window
+
+And we're going to stage the files we changed, that's the plus button
+
+Then we need to type in a commit message
+
+Then we're going to hit the drop down and do commit and push
