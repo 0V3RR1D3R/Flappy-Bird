@@ -2,4 +2,4 @@ Open a terminal and write: python3 -m http.server 8000
 
 Then open browser and go to: localhost:8000
 
-To CLOSE go back to terminal and hit CTRL C
+To CLOSE go back to terminal and hit CTRL C 
